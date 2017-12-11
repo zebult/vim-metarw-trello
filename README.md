@@ -1,5 +1,8 @@
-## vim-metarw-trello.vim
+## vim-metarw-trello
 
+## TODO
+
+make plugin
 
 ## installation
 ```vim
